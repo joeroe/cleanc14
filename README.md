@@ -27,4 +27,4 @@ install.packages("cleanc14")
 
 ## Citation
 
-`c14_material_thesaurus` was originally compiled by Clemens Schmid, David Matzing, Dirk Seidensticker, Joe Roe, and Thomas Huet, for the package [c14bazAAR](https://docs.ropensci.org/c14bazAAR/).
+`c14_material_thesaurus` was originally compiled by Clemens Schmid, David Matzig, Dirk Seidensticker, Joe Roe, and Thomas Huet, for the package [c14bazAAR](https://docs.ropensci.org/c14bazAAR/).
